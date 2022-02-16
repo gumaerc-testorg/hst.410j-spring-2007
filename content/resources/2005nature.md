@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/2c54539970ab15dad0966a9d238019a2_2005nature.pdf
+file: /media/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/2c54539970ab15dad0966a9d238019a2_2005nature.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 2005nature.pdf
 uid: 2c545399-70ab-15da-d096-6a9d238019a2

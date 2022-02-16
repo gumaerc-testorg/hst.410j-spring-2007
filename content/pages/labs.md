@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 ---
@@ -19,7 +22,7 @@ Device Fabrication ([PDF]({{< baseurl >}}/resources/manuf_pdms))
 Filling Devices ([PDF]({{< baseurl >}}/resources/filling_devices))
 
 Reservoirs ([PDF]({{< baseurl >}}/resources/fluid_reservoirs))
-{{< image-gallery id="b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/" >}}
+{{< image-gallery id="b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c_nanogallery2" baseUrl="/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/" >}}
 {{< image-gallery-item href="7df503c2a5e14ca51eb7ac881d39ddc7_01.jpg" data-ngdesc="The base layer for the masters is a silicon wafer. Silicon wafers are used because they are extremely flat, so the pattern drawn in the mask will be replicated faithfully on the wafer. This image shows several silicon wafers stored vertically to minimize dust." text="The base layer for the masters is a silicon wafer. Silicon wafers are used because they are extremely flat, so the pattern drawn in the mask will be replicated faithfully on the wafer. This image shows several silicon wafers stored vertically to minimize dust." >}}
 {{< image-gallery-item href="306a8b94a1464bd1e03b72383436464c_02.jpg" data-ngdesc="This image shows Daniel opening the plasma cleaner. This device surrounds the wafers with an oxygen plasma, which is used to clean the surface and remove any impurities." text="This image shows Daniel opening the plasma cleaner. This device surrounds the wafers with an oxygen plasma, which is used to clean the surface and remove any impurities." >}}
 {{< image-gallery-item href="e8e0820e993c255f0c12ecbf75e88adc_03.jpg" data-ngdesc="Removing the wafers from the plasma cleaner. At this point they are molecularly clean, and should never be touched, even with gloved hands." text="Removing the wafers from the plasma cleaner. At this point they are molecularly clean, and should never be touched, even with gloved hands." >}}
