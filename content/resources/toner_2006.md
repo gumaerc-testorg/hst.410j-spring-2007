@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 53bb2ae7-3c40-deee-3259-b68a7fd44236
 resourcetype: Document
 title: toner_2006.pdf
 uid: 69255c8a-f423-4207-2202-fb0357965fb8

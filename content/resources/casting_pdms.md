@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 resourcetype: Document
 title: casting_pdms.pdf
 uid: 5679db74-9fa4-bcd2-d7c8-b798f177fd29

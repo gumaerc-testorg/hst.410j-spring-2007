@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 53bb2ae7-3c40-deee-3259-b68a7fd44236
 resourcetype: Document
 title: refoldnature2005.pdf
 uid: bef4dbfc-ab9b-2b85-db09-cd409c716ace

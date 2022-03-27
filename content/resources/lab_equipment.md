@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4f2b0741-d31e-db33-da19-e7b244bfdc33
 resourcetype: Document
 title: lab_equipment.pdf
 uid: bb9f7723-18e4-03cb-e02d-0f9c861980bd

@@ -35,6 +35,6 @@ Mask Design for Chip ([PDF - 1.4 MB]({{< baseurl >}}/resources/chipmask))
 
 Overview of Lab Equipment ([PDF]({{< baseurl >}}/resources/lab_equipment))
 
-sqerferr.m, for Computing Squared Error Between an Erf Function and a Data Set ([M](./resolveuid/b7ccdaf287fd2bb2b0c67c1505962aed))
+sqerferr.m, for Computing Squared Error Between an Erf Function and a Data Set ([M]({{< baseurl >}}/resources/sqerferr))
 
-sqerferrc.m, for Computing Squared Error Between an Erfc Function and a Data Set (erfc is like erf, but goes from high to low rather than from low to high) ([M](./resolveuid/2eb67b7bc616274198f5c0b1a36cfff2))
+sqerferrc.m, for Computing Squared Error Between an Erfc Function and a Data Set (erfc is like erf, but goes from high to low rather than from low to high) ([M]({{< baseurl >}}/resources/sqerferrc))

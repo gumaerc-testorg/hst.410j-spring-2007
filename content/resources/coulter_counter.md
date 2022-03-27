@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 resourcetype: Document
 title: coulter_counter.pdf
 uid: 1158f5bd-e360-8359-fbec-b15b4dff1fc0

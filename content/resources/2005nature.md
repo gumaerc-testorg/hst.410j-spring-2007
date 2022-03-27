@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 53bb2ae7-3c40-deee-3259-b68a7fd44236
 resourcetype: Document
 title: 2005nature.pdf
 uid: 2c545399-70ab-15da-d096-6a9d238019a2

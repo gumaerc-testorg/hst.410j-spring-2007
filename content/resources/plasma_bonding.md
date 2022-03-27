@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 resourcetype: Document
 title: plasma_bonding.pdf
 uid: 5cf5de07-db02-fb92-9701-ac9db699a961

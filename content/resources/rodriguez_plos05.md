@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 53bb2ae7-3c40-deee-3259-b68a7fd44236
 resourcetype: Document
 title: rodriguez_plos05.pdf
 uid: e920ea0b-0ce5-f537-6d91-0f78aa655174

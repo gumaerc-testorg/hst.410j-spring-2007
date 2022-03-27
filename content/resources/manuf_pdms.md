@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 resourcetype: Document
 title: manuf_pdms.pdf
 uid: a8ccf98b-4a87-0a05-112f-4143c5146c0a

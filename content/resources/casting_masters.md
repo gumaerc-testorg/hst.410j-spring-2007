@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
 resourcetype: Document
 title: casting_masters.pdf
 uid: 6242ad4d-671a-536b-eac2-5fc4176ad848
