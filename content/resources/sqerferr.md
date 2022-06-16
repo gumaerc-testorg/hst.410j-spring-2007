@@ -2,7 +2,7 @@
 content_type: resource
 description: MATLAB? file, sqerferr.m, for Computing Squared Error Between an Erf
   Function and a Data Set.
-file: /media/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/b7ccdaf287fd2bb2b0c67c1505962aed_sqerferr.m
+file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/b7ccdaf287fd2bb2b0c67c1505962aed_sqerferr.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: sqerferr.m
 uid: b7ccdaf2-87fd-2bb2-b0c6-7c1505962aed
 ---
+MATLAB? file, sqerferr.m, for Computing Squared Error Between an Erf Function and a Data Set.
+

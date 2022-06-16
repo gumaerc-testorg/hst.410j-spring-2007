@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information about course content, teaching
+  and learning activities, meeting times, homework, collaboration policy, projects,
+  communications, grading, the course text, and the schedule of lecture topics and
+  key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 9786140b-d9ee-43a9-c300-f9682e6fc775
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -68,7 +74,7 @@ This subject is communications intensive. We feel that communications skills are
 Grade
 -----
 
-Because of the project-oriented nature of this subject, grades will depend strongly on the final project. It should be noted that this project grade itself has several components which will be graded separately (e.g., proposal, first draft, written critique, etc.). In addition, your final presentation will be graded on several metrics (technical content, effective use of slides, clarity of presentation, etc.). More detail on grading is provided in the [assignments]({{< baseurl >}}/pages/assignments) section of this site. The weighting factors for determining letter grades are:
+Because of the project-oriented nature of this subject, grades will depend strongly on the final project. It should be noted that this project grade itself has several components which will be graded separately (e.g., proposal, first draft, written critique, etc.). In addition, your final presentation will be graded on several metrics (technical content, effective use of slides, clarity of presentation, etc.). More detail on grading is provided in the {{% resource_link 4f2b0741-d31e-db33-da19-e7b244bfdc33 "assignments" %}} section of this site. The weighting factors for determining letter grades are:
 
 {{< tableopen >}}
 {{< theadopen >}}

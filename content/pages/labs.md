@@ -1,27 +1,31 @@
 ---
 content_type: page
+description: This section presents information on some of the primary techniques used
+  in the lab portion of the class.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
 title: Labs
 uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents information on some of the primary techniques used in the lab portion of this class. All photographs are courtesy of Dr. Aranyosi.
 
-Casting PDMS ([PDF]({{< baseurl >}}/resources/casting_pdms))
+Casting PDMS ({{% resource_link 5679db74-9fa4-bcd2-d7c8-b798f177fd29 "PDF" %}})
 
-Casting Masters ([PDF]({{< baseurl >}}/resources/casting_masters))
+Casting Masters ({{% resource_link 6242ad4d-671a-536b-eac2-5fc4176ad848 "PDF" %}})
 
-Coulter Counter ([PDF]({{< baseurl >}}/resources/coulter_counter))
+Coulter Counter ({{% resource_link 1158f5bd-e360-8359-fbec-b15b4dff1fc0 "PDF" %}})
 
-Plasma Bonding ([PDF]({{< baseurl >}}/resources/plasma_bonding))
+Plasma Bonding ({{% resource_link 5cf5de07-db02-fb92-9701-ac9db699a961 "PDF" %}})
 
-Device Fabrication ([PDF]({{< baseurl >}}/resources/manuf_pdms))
+Device Fabrication ({{% resource_link a8ccf98b-4a87-0a05-112f-4143c5146c0a "PDF" %}})
 
-Filling Devices ([PDF]({{< baseurl >}}/resources/filling_devices))
+Filling Devices ({{% resource_link e1908128-4fcc-482a-ed0e-0fa83bb3767c "PDF" %}})
 
-Reservoirs ([PDF]({{< baseurl >}}/resources/fluid_reservoirs))
+Reservoirs ({{% resource_link 11564106-018f-a0a8-3ed3-9b43e1639f76 "PDF" %}})
 {{< image-gallery id="b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c_nanogallery2" baseUrl="/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/" >}}
 {{< image-gallery-item href="7df503c2a5e14ca51eb7ac881d39ddc7_01.jpg" data-ngdesc="The base layer for the masters is a silicon wafer. Silicon wafers are used because they are extremely flat, so the pattern drawn in the mask will be replicated faithfully on the wafer. This image shows several silicon wafers stored vertically to minimize dust." text="The base layer for the masters is a silicon wafer. Silicon wafers are used because they are extremely flat, so the pattern drawn in the mask will be replicated faithfully on the wafer. This image shows several silicon wafers stored vertically to minimize dust." >}}
 {{< image-gallery-item href="306a8b94a1464bd1e03b72383436464c_02.jpg" data-ngdesc="This image shows Daniel opening the plasma cleaner. This device surrounds the wafers with an oxygen plasma, which is used to clean the surface and remove any impurities." text="This image shows Daniel opening the plasma cleaner. This device surrounds the wafers with an oxygen plasma, which is used to clean the surface and remove any impurities." >}}
