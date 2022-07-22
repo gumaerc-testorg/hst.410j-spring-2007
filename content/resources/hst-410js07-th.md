@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: People in cleanroom suits view magnified wafer pattern on screen.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-410js07-th.jpg
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 New image Upload
-

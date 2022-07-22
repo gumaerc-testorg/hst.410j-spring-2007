@@ -6,6 +6,7 @@ file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sqerferr.m
 uid: b7ccdaf2-87fd-2bb2-b0c6-7c1505962aed
 ---
 MATLAB? file, sqerferr.m, for Computing Squared Error Between an Erf Function and a Data Set.
-

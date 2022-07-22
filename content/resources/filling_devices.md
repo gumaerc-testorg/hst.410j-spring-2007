@@ -6,6 +6,7 @@ file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Information about techniques used in the lab portion of this class: filling devices.
-
