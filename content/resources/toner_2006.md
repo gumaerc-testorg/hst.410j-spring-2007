@@ -2,6 +2,7 @@
 content_type: resource
 description: This section contains the readings for the course.
 file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/69255c8af42342072202fb0357965fb8_toner_2006.pdf
+file_size: 540042
 file_type: application/pdf
 learning_resource_types:
 - Readings

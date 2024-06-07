@@ -2,6 +2,7 @@
 content_type: resource
 description: Overview of Lab Equipment.
 file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/bb9f772318e403cbe02d0f9c861980bd_lab_equipment.pdf
+file_size: 319630
 file_type: application/pdf
 learning_resource_types:
 - Assignments

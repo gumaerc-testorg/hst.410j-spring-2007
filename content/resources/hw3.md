@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 3.
 file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/7a6c07516b482b1afc6d7ae1999c4509_hw3.pdf
+file_size: 43124
 file_type: application/pdf
 learning_resource_types:
 - Assignments
