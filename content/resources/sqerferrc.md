@@ -4,6 +4,7 @@ description: MATLAB? file, sqerferrc.m, for Computing Squared Error Between an E
   Function and a Data Set (erfc is like erf, but goes from high to low rather than
   from low to high).
 file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/2eb67b7bc616274198f5c0b1a36cfff2_sqerferrc.m
+file_size: 166
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about laminar flow.
 file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/20be466cfc2110f159cb10f7690b40a8_lec06.pdf
+file_size: 485859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
