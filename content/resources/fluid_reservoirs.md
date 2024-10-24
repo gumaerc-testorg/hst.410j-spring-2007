@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Information about techniques used in the lab portion of this class:
   fluid reservoirs.'
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/11564106018fa0a83ed39b43e1639f76_fluid_reservoirs.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/11564106018fa0a83ed39b43e1639f76_fluid_reservoirs.pdf
 file_size: 391400
 file_type: application/pdf
 learning_resource_types:
