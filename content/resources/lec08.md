@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about research applications.
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/b2d5a8eed55d89c078d5167f98cd4e1a_lec08.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/b2d5a8eed55d89c078d5167f98cd4e1a_lec08.pdf
 file_size: 292927
 file_type: application/pdf
 learning_resource_types:
