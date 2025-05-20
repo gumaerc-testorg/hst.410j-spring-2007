@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 4.
-file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/d4a54b90378d50c0b279885e68f5c528_hw4.pdf
+file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/d4a54b90378d50c0b279885e68f5c528_hw4.pdf
 file_size: 46949
 file_type: application/pdf
 learning_resource_types:
