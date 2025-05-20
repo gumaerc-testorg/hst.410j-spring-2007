@@ -2,7 +2,7 @@
 content_type: resource
 description: Complete article by Rodriguez, William R. "A Microchip CD4 Counting Method
   for HIV Monitoring in Resource-Poor Settings."
-file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/e920ea0b0ce5f5376d910f78aa655174_rodriguez_plos05.pdf
+file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/e920ea0b0ce5f5376d910f78aa655174_rodriguez_plos05.pdf
 file_size: 417390
 file_type: application/pdf
 learning_resource_types:

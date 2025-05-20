@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/ff51a3d8f4da3ed8933626d2fc7f24f7_hst-410js07-th.jpg
+file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/ff51a3d8f4da3ed8933626d2fc7f24f7_hst-410js07-th.jpg
 file_size: 6068
 file_type: image/jpeg
 image_metadata:
