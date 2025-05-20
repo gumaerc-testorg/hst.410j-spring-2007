@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about microfabrication.
-file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/8d94d3e504cefec05ee46cfcd1b4083c_lec02.pdf
+file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/8d94d3e504cefec05ee46cfcd1b4083c_lec02.pdf
 file_size: 594078
 file_type: application/pdf
 learning_resource_types:
