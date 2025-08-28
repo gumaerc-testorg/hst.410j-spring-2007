@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about data analysis using MATLAB?.
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/8e36a3ef647861b98b3a5ab54b2a7ccd_lec07.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/8e36a3ef647861b98b3a5ab54b2a7ccd_lec07.pdf
 file_size: 49423
 file_type: application/pdf
 learning_resource_types:

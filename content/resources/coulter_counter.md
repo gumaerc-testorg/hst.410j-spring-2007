@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Information about techniques used in the lab portion of this class:
   Coulter counter.'
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/1158f5bde3608359fbecb15b4dff1fc0_coulter_counter.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/1158f5bde3608359fbecb15b4dff1fc0_coulter_counter.pdf
 file_size: 589066
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -3,7 +3,7 @@ content_type: page
 description: This section presents information on some of the primary techniques used
   in the lab portion of the class.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b1ac9f83-5232-d55f-b7bf-291ec9c8fb2c
