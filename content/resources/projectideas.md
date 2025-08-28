@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Ideas for the Final Project.
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/c6bf7ce9d819a4e3b371e4ba39736361_projectideas.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/c6bf7ce9d819a4e3b371e4ba39736361_projectideas.pdf
 file_size: 54271
 file_type: application/pdf
 learning_resource_types:

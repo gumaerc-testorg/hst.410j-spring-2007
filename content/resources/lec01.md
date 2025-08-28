@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about microscale engineering and microfluidics.
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/4c553d06a916d1c412893f554eee33e7_lec01.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/4c553d06a916d1c412893f554eee33e7_lec01.pdf
 file_size: 1003287
 file_type: application/pdf
 learning_resource_types:
