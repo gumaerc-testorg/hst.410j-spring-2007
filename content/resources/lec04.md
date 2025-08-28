@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about cells and membranes, continued.
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/ebec55e8748d6d0935ecbd86caf982a1_lec04.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/ebec55e8748d6d0935ecbd86caf982a1_lec04.pdf
 file_size: 667669
 file_type: application/pdf
 learning_resource_types:

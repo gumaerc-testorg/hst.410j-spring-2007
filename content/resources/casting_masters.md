@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Information about techniques used in the lab portion of this class:
   casting masters.'
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/6242ad4d671a536beac25fc4176ad848_casting_masters.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/6242ad4d671a536beac25fc4176ad848_casting_masters.pdf
 file_size: 621790
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/2c54539970ab15dad0966a9d238019a2_2005nature.pdf
+file: /ol-ocw-studio-app/courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007/2c54539970ab15dad0966a9d238019a2_2005nature.pdf
 file_size: 265994
 file_type: application/pdf
 learning_resource_types:
