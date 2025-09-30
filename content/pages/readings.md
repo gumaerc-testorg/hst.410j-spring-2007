@@ -12,7 +12,7 @@ video_metadata:
 
 Rodriguez, William R. "A Microchip CD4 Counting Method for HIV Monitoring in Resource-Poor Settings." ({{% resource_link e920ea0b-0ce5-f537-6d91-0f78aa655174 "PDF" %}})
 
-Cheng, Xuanhong, et al. "[A Microfluidic Device for Practical Label-free CD4+ T Cell Counting of HIV-infected Subjects](http://www.rsc.org/publishing/journals/LC/article.asp?doi=b612966h)." _Lab on a Chip_ 7 (2007): 170-178.
+Cheng, Xuanhong, et al. "{{% resource_link "a26ff204-8db9-467e-8f26-335580dd2274" "A Microfluidic Device for Practical Label-free CD4+ T Cell Counting of HIV-infected Subjects" %}}." _Lab on a Chip_ 7 (2007): 170-178.
 
 Johnson, R. Paul, and Amitinder Kaur. "Viral Blitzkrieg." _Nature_ 434 (2005): 1080-1081.
 
